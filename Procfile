@@ -1,2 +1,1 @@
-web: gunicorn dash_1:server
-
+web: gunicorn gettingstarted.wsgi

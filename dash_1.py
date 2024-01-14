@@ -116,5 +116,3 @@ def update_graph(auteur, nb_de_pages):
 # Exécution de l'application
 if __name__ == '__main__':
     app.run_server(debug=True)
-
-app.run(jupyter_mode="external")
